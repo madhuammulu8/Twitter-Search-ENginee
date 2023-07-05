@@ -1,3 +1,3 @@
 echo off
-cd C:\Users\balaj\Desktop\test
+cd Twitter-search-Engineer-1/Crawler
 python TwitterCrawler.py 1000000000
