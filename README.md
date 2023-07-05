@@ -1,9 +1,7 @@
-Youtube Link: https://www.youtube.com/watch?v=nEqtQ0FIVT8
-
-Continue Of Full stack Search Enginee using the crawled data: https://github.com/madhuammulu8/Twitter-Search-Enginee-FullStack-Search-Enginee-Website
-
- * [Total Architecture](#Total-Architecture)
+# Table Of Content
+ * [Media](#Media)
  * [Abstract](#Abstract)
+ * [Total Architecture](#Total-Architecture)
  * [Instruction For Running Twitter Crawler and Lucene](#Instruction-For-Running-Twitter-Crawler-and-Lucene)
  * [Twitter Crawling Architecture](#Twitter-Crawling-Architecture)
    * [Config.py](#Config.py)
@@ -13,13 +11,21 @@ Continue Of Full stack Search Enginee using the crawled data: https://github.com
    * [TweetParser.Java](#TweetParser.Java)
    * [TweetIndexer.Java](#TweetIndexer.Java)
 
-# Total Architecture:
 
-<img width="498" alt="image" src="https://github.com/madhuammulu8/Twitter-search-Enginee-Crawling-and-Indexing/assets/65707202/672d2f45-f059-438a-aab1-a6afd556ac93">
+# Media: 
+
+Youtube Link: https://www.youtube.com/watch?v=nEqtQ0FIVT8
+
+Continue Of Full stack Search Enginee using the crawled data: https://github.com/madhuammulu8/Twitter-Search-Enginee-FullStack-Search-Enginee-Website
 
 # Abstract:
 
 The crawler, implemented in Python using Tweepy, retrieves tweets based on specified parameters, handles rate limits, and stores data in CSV files. Lucene indexing is performed using Java, with fields including coordinates, location, username, tweet text, and date/time. The indexing strategy utilizes various text analyzers and techniques. The architecture enables efficient crawling and indexing of Twitter data for further analysis and retrieval.
+
+# Total Architecture:
+
+<img width="498" alt="image" src="https://github.com/madhuammulu8/Twitter-search-Enginee-Crawling-and-Indexing/assets/65707202/672d2f45-f059-438a-aab1-a6afd556ac93">
+
 
 # Instruction For Running Twitter Crawler and Lucene:
 
