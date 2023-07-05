@@ -4,7 +4,7 @@
  * [Total Architecture](#Total-Architecture)
  * [Instruction For Running Twitter Crawler and Lucene](#Instruction-For-Running-Twitter-Crawler-and-Lucene)
  * [Twitter Crawling Architecture](#Twitter-Crawling-Architecture)
-   * [Config.py](#Config.py)
+   * [Config.py](##Config.py)
    * [Twittercrawler.py](#Twittercrawler.py)
    * [Location and Emoji’s Handling Folder](#Location-and-Emoji’s-Handling-Folder)
  * [LUCENE Indexing Our Twitter Data](#LUCENE-Indexing-Our-Twitter-Data)
