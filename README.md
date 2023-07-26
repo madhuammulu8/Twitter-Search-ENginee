@@ -12,13 +12,15 @@
    * [TweetIndexer.Java](#TweetIndexer.Java)
 
 
-# Media: 
+Media: 
+============
 
 Youtube Link: https://www.youtube.com/watch?v=nEqtQ0FIVT8
 
-Continue Of Full stack Search Enginee using the crawled data: https://github.com/madhuammulu8/Twitter-Search-Enginee-FullStack-Search-Enginee-Website
+Continue Full stack Search Enginee using the crawled data: https://github.com/madhuammulu8/Twitter-Search-Enginee-FullStack-Search-Enginee-Website
 
-# Abstract:
+Abstract:
+============
 
 The crawler, implemented in Python using Tweepy, retrieves tweets based on specified parameters, handles rate limits, and stores data in CSV files. Lucene indexing is performed using Java, with fields including coordinates, location, username, tweet text, and date/time. The indexing strategy utilizes various text analyzers and techniques. The architecture enables efficient crawling and indexing of Twitter data for further analysis and retrieval.
 
